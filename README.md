@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bhardwaj Thengal
+- 👀 I’m interested in Coding, Playing Games, Long Rides, Long Drives, etc
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on any project that is web related and if its a new language, I will learn it on the go
+- 📫 You cam reach me on my email address (bhardwaj9435@gmail.com)
